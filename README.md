@@ -1,3 +1,3 @@
-Potato Api
+Marvel Api
 
 Content inbound
